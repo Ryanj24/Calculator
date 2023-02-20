@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0%;
+    font-family: "Roboto", sans-serif, Helvetica;
 }
 
 body {
@@ -45,7 +48,7 @@ button:active {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-color: rgb(33, 153, 103);
+    background-color: rgb(38, 190, 127);
     margin-bottom: 20px;
     border: 2px solid;
     border-radius: 15px;
